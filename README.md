@@ -25,7 +25,7 @@ To integrate the CybernetiX S3C app into your Linux environment, clone this repo
 
 ```
 # Clone the repository
-git clone [https://github.com/cybernetix-s3c/CybernetiX-S3C-Linux.git](https://github.com/cybernetix-s3c/CybernetiX-S3C-Linux.git)
+git clone https://github.com/cybernetix-s3c/CybernetiX-S3C-Linux.git
 
 # Navigate into the directory
 cd CybernetiX-S3C-Linux
