@@ -35,17 +35,22 @@ cd CybernetiX-S3C-Linux
 
 # Run the deployment sequence
 bash install_cybernetix.sh
-System Structure
+```
+
+### System Structure
 Once the script is executed, the following links are established:
 
-Binary Location: CybernetiX-S3C-Linux-App/CybernetiX-S3C
+## Binary Location: 
+CybernetiX-S3C-Linux-App/CybernetiX-S3C
 
-System Launcher: ~/.local/share/applications/cybernetix-s3c.desktop
+## System Launcher:
+~/.local/share/applications/cybernetix-s3c.desktop
 
-Icon Source: resources/app/icon.png
-```
-Core Mission
-This repository is a component of the CybernetiX S3C ecosystem—a network developed for secure communication and intelligence gathering. It is designed to operate in the shadows, providing tools for those who require privacy and direct access to information.
+## Icon Source: 
+resources/app/icon.png
+
+### Core Mission
+This repository is a component of the CybernetiX S3C ecosystem, a network developed for secure communication and intelligence gathering. It is designed to operate in the shadows, providing tools for those who require privacy and direct access to information.
 
 Founder: John Poli Modica
 
