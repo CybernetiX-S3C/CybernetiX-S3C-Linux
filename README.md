@@ -8,15 +8,17 @@ _________         ___.                                __  .______  ___
         \/\/          \/     \/           \/     \/               \_/
 CybernetiX-S3C-Linux is the official native integration for the CybernetiX network on Linux systems. This repository provides a pre-configured Native Shell, allowing the people to access the web infrastructure as a dedicated desktop application without the overhead of a traditional browser.
 ```
-Overview
+###Overview
 This repository bridges the gap between web-based intelligence and local system utility. By packaging the environment into an Electron-based shell, users gain a streamlined, focused interface that operates independently of standard browser sessions.
 
-Features
-Pre-Packaged: The binary environment is included in the repo, removing the need for nativefier or npm builds.
+###Features Pre-Packaged: 
+The binary environment is included in the repo, removing the need for nativefier or npm builds.
 
-Desktop Integration: The provided deployment script creates a native launcher in your system's application menu.
+###Desktop Integration: 
+The provided deployment script creates a native launcher in your system's application menu.
 
-Kali/Debian Optimized: Automatically configures the necessary --no-sandbox flags and permissions for secure execution on security-focused distributions.
+###Kali/Debian Optimized: 
+Automatically configures the necessary --no-sandbox flags and permissions for secure execution on security-focused distributions.
 
 Lightweight: Operates as a standalone instance, ensuring the darkness stays lit without browser clutter.
 
