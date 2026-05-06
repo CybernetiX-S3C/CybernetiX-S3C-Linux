@@ -6,24 +6,26 @@ _________         ___.                                __  .______  ___
 \     \___\___  | | \_\ \  ___/|  | \/    |  \  ___/|  | |  |/     \ 
  \______  / ____| |___  /\___  >__|  |___|  /\___  >__| |__/___/\   \
         \/\/          \/     \/           \/     \/               \_/
-CybernetiX-S3C-Linux is the official native integration for the CybernetiX network on Linux systems. This repository provides a pre-configured Native Shell, allowing the people to access the web infrastructure as a dedicated desktop application without the overhead of a traditional browser.
 ```
-### Overview
+
+CybernetiX-S3C-Linux is the official native integration for the CybernetiX network on Linux systems. This repository provides a pre-configured Native Shell, allowing the people to access the web infrastructure as a dedicated desktop application without the overhead of a traditional browser.
+
+## Overview
 This repository bridges the gap between web-based intelligence and local system utility. By packaging the environment into an Electron-based shell, users gain a streamlined, focused interface that operates independently of standard browser sessions.
 
-### Features Pre-Packaged: 
+## Features Pre-Packaged: 
 The binary environment is included in the repo, removing the need for nativefier or npm builds.
 
-### Desktop Integration: 
+## Desktop Integration: 
 The provided deployment script creates a native launcher in your system's application menu.
 
-### Kali/Debian Optimized: 
+## Kali/Debian Optimized: 
 Automatically configures the necessary --no-sandbox flags and permissions for secure execution on security-focused distributions.
 
-### Lightweight: 
+## Lightweight: 
 Operates as a standalone instance, ensuring the darkness stays lit without browser clutter.
 
-### Installation & Deployment
+## Installation & Deployment
 To integrate the CybernetiX S3C app into your Linux environment, clone this repository and run the automated deployment script:
 
 ```
@@ -40,16 +42,16 @@ bash install_cybernetix.sh
 ### System Structure
 Once the script is executed, the following links are established:
 
-## Binary Location: 
+### Binary Location: 
 CybernetiX-S3C-Linux-App/CybernetiX-S3C
 
-## System Launcher:
+### System Launcher:
 ~/.local/share/applications/cybernetix-s3c.desktop
 
-## Icon Source: 
+### Icon Source: 
 resources/app/icon.png
 
-### Core Mission
+## Core Mission
 This repository is a component of the CybernetiX S3C ecosystem, a network developed for secure communication and intelligence gathering. It is designed to operate in the shadows, providing tools for those who require privacy and direct access to information.
 
 Founder: John Poli Modica
